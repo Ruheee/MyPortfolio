@@ -42,6 +42,7 @@ button {
   box-sizing: border-box;
   transition: all 0.2s;
   margin: 0 7px;
+  width: 25%;
 }
 
 button:hover {
@@ -57,4 +58,9 @@ button:hover {
   text-align: center;
   font-weight: 200;
   margin: 100px 100px;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
 }
