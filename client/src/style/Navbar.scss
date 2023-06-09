@@ -1,0 +1,45 @@
+@font-face {
+  font-family: 'Dosis', sans-serif;
+  src: url(../../public/Dosis-VariableFont_wght.ttf);
+}
+
+
+.container {
+  font-family: 'Dosis', sans-serif;
+  font-weight: 100;
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: space-between;
+  position: relative; /* Or absolute, fixed */
+
+
+  .info{
+    h1{
+        margin-right: 10px;
+        font-weight: 100;
+        position: relative; /* Or absolute, fixed */
+
+    }
+    margin-left: 20px;
+    display: flex;
+    align-items: baseline;
+  }
+  .nav--list {
+    display: flex;
+    margin-right: 20px;
+    li {
+      list-style: none;
+      margin: 5px;
+      position: relative; /* Or absolute, fixed */
+      
+    }
+    li:hover{
+      cursor: pointer;
+      color: grey;
+    }
+    li:current{
+      color: grey;
+    }
+  }
+}
