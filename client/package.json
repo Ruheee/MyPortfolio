@@ -1,7 +1,7 @@
 {
-  "homepage": "Ruheee.github.io/MyPortfolio",
   "name": "client",
   "version": "0.1.0",
+  "homepage": " https://ruheee.github.io/MyPortfolio/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
