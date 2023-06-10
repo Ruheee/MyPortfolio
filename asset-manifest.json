@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.f35a7b22.css",
-    "main.js": "/MyPortfolio/static/js/main.7cd5cd93.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/MyPortfolio/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/Dosis-VariableFont_wght.ttf": "/MyPortfolio/static/media/Dosis-VariableFont_wght.1af19a28a29fcb2321da.ttf",
-    "index.html": "/MyPortfolio/index.html",
-    "main.f35a7b22.css.map": "/MyPortfolio/static/css/main.f35a7b22.css.map",
-    "main.7cd5cd93.js.map": "/MyPortfolio/static/js/main.7cd5cd93.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/MyPortfolio/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/static/css/main.d50e2d28.css",
+    "main.js": "/static/js/main.d4ac28bd.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Dosis-VariableFont_wght.ttf": "/static/media/Dosis-VariableFont_wght.1af19a28a29fcb2321da.ttf",
+    "index.html": "/index.html",
+    "main.d50e2d28.css.map": "/static/css/main.d50e2d28.css.map",
+    "main.d4ac28bd.js.map": "/static/js/main.d4ac28bd.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f35a7b22.css",
-    "static/js/main.7cd5cd93.js"
+    "static/css/main.d50e2d28.css",
+    "static/js/main.d4ac28bd.js"
   ]
 }
