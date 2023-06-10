@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e1df9e73.css",
+    "main.css": "/static/css/main.d50e2d28.css",
     "main.js": "/static/js/main.d4ac28bd.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/Dosis-VariableFont_wght.ttf": "/static/media/Dosis-VariableFont_wght.1af19a28a29fcb2321da.ttf",
     "index.html": "/index.html",
-    "main.e1df9e73.css.map": "/static/css/main.e1df9e73.css.map",
+    "main.d50e2d28.css.map": "/static/css/main.d50e2d28.css.map",
     "main.d4ac28bd.js.map": "/static/js/main.d4ac28bd.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1df9e73.css",
+    "static/css/main.d50e2d28.css",
     "static/js/main.d4ac28bd.js"
   ]
 }
